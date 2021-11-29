@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+node_modules
+.DS_Store
+uploaded_file-1638227447505-368335017.zip
